@@ -1,5 +1,5 @@
 # Recommedation-Systems.
-![](Images/alfons-morales-YLSwjSy7stw-unsplash.jpg)
+![](Images/Structure-of-a-recommender-system.png)
 
 This repo contain all my work completed on Recommedation Systems by me for academic, self learning, and hobby purposes. Presented in the form of iPython Notebooks markdown files.
 
