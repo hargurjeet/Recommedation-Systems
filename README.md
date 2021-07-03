@@ -1,5 +1,5 @@
 # Recommedation-Systems.
-[picture](https://unsplash.com/photos/YLSwjSy7stw)
+![picture](https://unsplash.com/photos/YLSwjSy7stw)
 
 This repo contain all my work completed on Recommedation Systems by me for academic, self learning, and hobby purposes. Presented in the form of iPython Notebooks markdown files.
 
